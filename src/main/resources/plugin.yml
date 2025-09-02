@@ -1,0 +1,11 @@
+name: autofurniture
+version: '1.0.0'
+main: org.autofurniture.Autofurniture
+api-version: '1.21'
+prefix: autofurniture
+authors: [ nitt7 ]
+depend: [Nexo]
+commands:
+  autofurniture:
+    description: Головна команда для плагіна Autofurniture
+    usage: /autofurniture <reload|add|remove>
